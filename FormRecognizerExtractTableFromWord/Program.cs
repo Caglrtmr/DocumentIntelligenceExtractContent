@@ -17,8 +17,8 @@ namespace FormRecognizerExtractTableFromWord
         {
             
             //set `<your-endpoint>` and `<your-key>` variables with the values from the Azure portal to create your `AzureKeyCredential` and `DocumentAnalysisClient` instance
-            string endpoint = "https://caglar-di.cognitiveservices.azure.com/";
-            string key = "8e294f9101c94c94af612a44226e18dc";
+            string endpoint = "https://yyyyyyy.cognitiveservices.azure.com/";
+            string key = "xxxxxx";
             AzureKeyCredential credential = new AzureKeyCredential(key);
             DocumentAnalysisClient client = new DocumentAnalysisClient(new Uri(endpoint), credential);
             
