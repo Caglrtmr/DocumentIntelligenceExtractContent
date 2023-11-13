@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormRecognizerExtractTableFromWord", "FormRecognizerExtractTableFromWord\FormRecognizerExtractTableFromWord.csproj", "{C2F63EE7-299F-42E1-A171-706B9E72394D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F63EE7-299F-42E1-A171-706B9E72394D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F63EE7-299F-42E1-A171-706B9E72394D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F63EE7-299F-42E1-A171-706B9E72394D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F63EE7-299F-42E1-A171-706B9E72394D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41209273-229E-404F-82B8-85E64B0551A9}
+	EndGlobalSection
+EndGlobal
